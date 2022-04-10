@@ -32,7 +32,7 @@ totalSupply_:  发行量
 rewardAddr_:  分红代币的合约，注意一定是币安链上的
 marketingWalletAddr_: 市场营销钱包，自己的
 serviceAddr_: 待定
-buyFeeSetting_: [X,X,X,X] (X是数字，也就是百分比，分别对应分红、流动性、市场营销、燃烧)
+buyFeeSetting_: [X,X,X,X] (X是数字，也就是百分比，分别对应分红、流动性、市场营销、燃烧，参考[1,1,1,2])
 sellFeeSetting_: [X,X,X,X] 同上
 tokenBalanceForReward_: 持有多少代币参与分红，单位是wei，所以数量后要加18个0
 ```
