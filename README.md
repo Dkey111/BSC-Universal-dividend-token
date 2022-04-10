@@ -1,2 +1,2 @@
-# BSC-Universal-dividend-token
-BSC全能分红币
+# BSC全能分红币
+
