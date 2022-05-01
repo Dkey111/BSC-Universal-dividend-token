@@ -38,6 +38,16 @@ tokenBalanceForReward_: 持有多少代币参与分红，单位是wei，所以�
 ```
 
 
+### 测试网相关参数
+
+```
+薄饼测试网路由，源码676行:0xB6BA90af76D139AB3170c7df0139636dB6120F7e
+测试网usdt:0xEdA5dA0050e21e9E34fadb1075986Af1370c7BDb
+测试网SHIB: 0x11e815a78Cc41D733Db00f06B3A96074855362CE
+测试网依赖合约:0x72519BE1b6fcd1493378e38628ba60Dc34DeB41f
+```
+
+### 添加流动性时（加池子）注意！要用bnb加池子
 
 ### TG电报群
 
