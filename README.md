@@ -1,4 +1,4 @@
-## 币安链全能分红币
+## 币安链全能分红币源码
 
 
 
@@ -23,7 +23,7 @@ Other Settings: default evmVersion, MIT license
 
 ### 部署参数
 
-contract选择Blocktechnology合约进行部署，Value值200000000000000000（17个0，0.2BNB）
+contract选择Blocktechnology合约进行部署，Value值200000000000000000（17个0，也就是0.2BNB）
 
 ```
 name_:  代币名称
